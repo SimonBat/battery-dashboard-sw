@@ -1,1 +1,1 @@
-# battery-dashboard-sw
+Li-ion battery dashboard.
