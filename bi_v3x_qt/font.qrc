@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tahoma.ttf</file>
+    </qresource>
+    <qresource prefix="/vkStyle"/>
+</RCC>

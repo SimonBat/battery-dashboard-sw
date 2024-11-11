@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/style.qml</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/backspace-868482.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/check-868482.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/enter-868482.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/globe-868482.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/handwriting-868482.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/hidekeyboard-868482.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/search-868482.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/selectionhandle-bottom.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/shift-80c342.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/shift-868482.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/shift-c5d6b6.svg</file>
+        <file>vkBiStyle/QtQuick/VirtualKeyboard/Styles/vkBi/images/textmode-868482.svg</file>
+    </qresource>
+</RCC>

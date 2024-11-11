@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BiApplication.qml</file>
+        <file>BiButton.qml</file>
+        <file>BiRadioButton.qml</file>
+        <file>BiLabelN.qml</file>
+        <file>BiCommIndicator.qml</file>
+        <file>BiComboBox.qml</file>
+        <file>BiApplicationRpi.qml</file>
+        <file>BiGauge.qml</file>
+        <file>BiGaugeBattCurrent.qml</file>
+        <file>BiGaugeBattVoltage.qml</file>
+        <file>BiGaugeCellVoltage.qml</file>
+        <file>BiGaugeSOC.qml</file>
+        <file>BiDashboard.qml</file>
+        <file>BiDelayButton.qml</file>
+    </qresource>
+</RCC>
