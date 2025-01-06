@@ -1,3 +1,3 @@
 Li-ion battery dashboard.
 
-![dashboard](https://github.com/user-attachments/assets/d87a6998-e118-4c28-ab8e-374c01b1d5f4)
+![DSC-5](https://github.com/user-attachments/assets/1844d611-5f64-42eb-9728-6a144bc8a7c6)
